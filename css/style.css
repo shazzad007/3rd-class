@@ -1,0 +1,29 @@
+body{
+	background-color: #F7E7CE ;
+	font-family: arial;
+	margin-left: 10px;
+	line-height: 25px;
+
+}
+.main{
+	text-align: center;
+	font-size: 25px;
+	font-weight: bold;
+
+}
+
+.down h2{
+	background-color:gray ;
+	font-size: 20px;
+	color: ;
+	padding-left: 15px;
+	
+	
+}
+.menu{
+	font-family: sans-serif;
+	line-height: 25px;
+}
+
+
+
